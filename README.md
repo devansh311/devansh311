@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Devansh Srivastava</h1>
-<h3 align="center">Full Stack Developer & Competitive Programmer</h3>
+<h3 align="center">Full Stack Developer & a Competitive Programmer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Competitive+Programmer;Exploring+Generative+AI;Always+shipping+something+new" alt="Typing SVG" />
